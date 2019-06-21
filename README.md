@@ -1,5 +1,5 @@
 # The Birds and the Bees - CF Patch
-Adds reproductive organs for "The Birds and the Bees" with prosthetics based on "Cyber Fauna".
+Adds reproductive organs for _["The Birds and the Bees"](https://ludeon.com/forums/index.php?topic=16120.msg171779#msg171779)_ with prosthetics based on _["Cyber Fauna"](https://steamcommunity.com/sharedfiles/filedetails/?id=1548649032)_.
 
 Load after "Cyber Fauna" and "The Birds and the Bees"
 
