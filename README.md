@@ -4,7 +4,7 @@ Adds reproductive organs for "The Birds and the Bees" with prosthetics based on 
 Load after "Cyber Fauna" and "The Birds and the Bees"
 
 ### Features
-- Adds simple (80% efficiency) and bionic (125% efficiency) reproductive organs for animals.
+- Adds simple (80% efficiency) and bionic (125% efficiency) reproductive organs for animals. Restores fertility.
 
 ### Known issues
 - No known issues. Save compatible.
