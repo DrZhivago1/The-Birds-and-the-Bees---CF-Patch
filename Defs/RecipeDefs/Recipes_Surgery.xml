@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<RecipeDef ParentName="SurgeryCF_Simple">
+		<defName>InstallCFSimpleAniReproOrgans</defName>
+		<label>&lt;color=#99BADD&gt;Install prosthetic animal reproductive organs&lt;/color&gt;</label>
+		<description>install prosthetic animal reproductive organs.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing prosthetic animal reproductive organs.</jobString>
+		<ingredients>
+			<li><filter><categories><li>Medicine</li></categories></filter><count>2</count></li>
+			<li><filter><thingDefs><li>CFSimpleAniReproOrg</li></thingDefs></filter><count>1</count></li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>CFSimpleAniReproOrg</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>ReproductiveOrgans</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>CFSimpleAniReproOrgHed</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgeryCF_Bionic">
+		<defName>InstallCFBionicAniReproOrgans</defName>
+		<label>&lt;color=#ADB3DB&gt;Install bionic animal reproductive organs&lt;/color&gt;</label>
+		<description>install bionic animal reproductive organs.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing bionic animal reproductive organs.</jobString>
+		<ingredients>
+			<li><filter><categories><li>Medicine</li></categories></filter><count>3</count></li>
+			<li><filter><thingDefs><li>CFBionicAniReproOrg</li></thingDefs></filter><count>1</count></li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>CFBionicAniReproOrg</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>ReproductiveOrgans</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>CFBionicAniReproOrgHed</addsHediff>
+	</RecipeDef>
+
+</Defs>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<HediffDef ParentName="AddedBodyPart_CF">
+		<defName>CFSimpleAniReproOrgHed</defName>
+		<label>prosthetic animal reproductive organ</label>
+		<labelNoun>a prosthetic animal reproductive organ</labelNoun>
+		<addedPartProps>
+			<solid>true</solid>
+			<betterThanNatural>false</betterThanNatural>
+			<partEfficiency>.8</partEfficiency>
+		</addedPartProps>
+		<spawnThingOnRemoved>CFSimpleAniReproOrg</spawnThingOnRemoved>
+	</HediffDef>
+
+	<HediffDef ParentName="AddedBodyPart_CFB">
+		<defName>CFBionicAniReproOrgHed</defName>
+		<label>bionic animal reproductive organ</label>
+		<labelNoun>a bionic animal reproductive organ</labelNoun>
+		<addedPartProps>
+			<solid>true</solid>
+			<betterThanNatural>false</betterThanNatural>
+			<partEfficiency>1.25</partEfficiency>
+		</addedPartProps>
+		<spawnThingOnRemoved>CFBionicAniReproOrg</spawnThingOnRemoved>
+	</HediffDef>
+
+</Defs>

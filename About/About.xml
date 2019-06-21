@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>The Birds and the Bees - CF Patch</name>
+	<author>Dr_Zhivago</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>Adds reproductive organs for "The Birds and the Bees" with prosthetics based on "Cyber Fauna".
+
+&lt;b&gt;Load after "Cyber Fauna" and "The Birds and the Bees"&lt;/b&gt;
+
+&lt;size=24&gt;Features&lt;/size&gt;
+- Adds simple (80% efficiency) and bionic (125% efficiency) reproductive organs for animals.
+
+&lt;size=24&gt;Known issues&lt;/size&gt;
+- No known issues. Save compatible.</description>
+</ModMetaData>

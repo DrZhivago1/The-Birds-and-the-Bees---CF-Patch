@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="CF_SimpleProt">
+		<defName>CFSimpleAniReproOrg</defName>
+		<label>simple animal reproductive organ</label>
+		<description>Simple reproductive organ for animals. Fits all animals.</description>
+		<techLevel>Industrial</techLevel>
+		<costList>
+			<Steel>20</Steel>
+			<ComponentIndustrial>2</ComponentIndustrial>
+		</costList>
+		<statBases>
+			<WorkToMake>6000</WorkToMake>
+			<Mass>0.5</Mass>
+		</statBases>
+		<techHediffsTags>
+			<li>Simple</li>
+		</techHediffsTags>
+	</ThingDef>
+
+	<ThingDef ParentName="CF_BionicProt">
+		<defName>CFBionicAniReproOrg</defName>
+		<label>bionic animal reproductive organ</label>
+		<description>Improved bionic animal reproductive organ. Fits all animals.</description>
+		<techLevel>Spacer</techLevel>
+		<costList>
+			<Plasteel>10</Plasteel>
+			<ComponentSpacer>2</ComponentSpacer>
+		</costList>
+		<statBases>
+			<WorkToMake>18000</WorkToMake>
+			<Mass>1</Mass>
+		</statBases>
+		<techHediffsTags>
+			<li>Advanced</li>
+		</techHediffsTags>
+	</ThingDef>
+
+</Defs>
