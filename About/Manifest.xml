@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <version>1.0.0</version>
+  <dependencies>
+    <li>1548649032</li>    <!--Cyber_Fauna-->
+  </dependencies>
+  <loadAfter>
+    <li>1548649032</li>    <!--Cyber_Fauna-->
+    <li>1548649032</li>    <!--The_Birds_and_the_Bees-->
+    <li>1717832369</li>    <!--The Birds and the Bees RBSE edition-->
+  </loadAfter>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri></manifestUri>
+  <downloadUri>https://github.com/DrZhivago1/The_Birds_and_the_Bees-CF_Patch/releases/latest</downloadUri>
+</Manifest>
