@@ -11,7 +11,7 @@ Load after "Cyber Fauna" and "The Birds and the Bees"
 
 _[Link to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1568744597)_
 
-_[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447416#msg447416)_
+_[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447421#msg447421)_
 
 
 ## [License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
