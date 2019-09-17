@@ -4,7 +4,7 @@ Adds reproductive organs for _["The Birds and the Bees"](https://ludeon.com/foru
 Load after "Cyber Fauna" and "The Birds and the Bees"
 
 ### Features
-- Adds simple (80% efficiency) and bionic (125% efficiency) reproductive organs for animals. Restores fertility.
+- Adds simple (80% efficiency) and bionic (125% efficiency) and archotech (200% efficiency) reproductive organs for animals. Restores fertility.
 - Also works with derivative mods such as "The Birds and the Bees - RBSE Edition"
 
 ### Known issues
