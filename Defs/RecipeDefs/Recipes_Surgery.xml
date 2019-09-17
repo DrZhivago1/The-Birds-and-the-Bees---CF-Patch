@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Defs>
-
 
 	<RecipeDef ParentName="SurgeryCF_Simple">
 		<defName>InstallCFSimpleAniReproOrgans</defName>
@@ -48,6 +46,30 @@
 			<li>ReproductiveOrgans</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>CFBionicAniReproOrgHed</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgeryCF_Archo">
+		<defName>InstallCFArchoAniReproOrgans</defName>
+		<label>&lt;color=#CF9ED8&gt;Install Archotech animal reproductive organs&lt;/color&gt;</label>
+		<description>install Archotech animal reproductive organs.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing Archotech animal reproductive organs.</jobString>
+		<ingredients>
+			<li><filter><categories><li>Medicine</li></categories></filter><count>4</count></li>
+			<li><filter><thingDefs><li>CFArchoAniReproOrg</li></thingDefs></filter><count>1</count></li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>CFArchoAniReproOrg</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>ReproductiveOrgans</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>CFArchoAniReproOrgHed</addsHediff>
 	</RecipeDef>
 
 </Defs>

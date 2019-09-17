@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <Patch>
 
 	<Operation Class="PatchOperationAdd">
@@ -6,6 +5,7 @@
 			<value>
 				<li>InstallCFSimpleAniReproOrgans</li>
 				<li>InstallCFBionicAniReproOrgans</li>
+				<li>InstallCFArchoAniReproOrgans</li>
 			</value>
 	</Operation>
 
