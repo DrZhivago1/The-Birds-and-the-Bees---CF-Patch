@@ -2,9 +2,28 @@
 
 	<name>The Birds and the Bees - CF Patch</name>
 	<author>Dr_Zhivago</author>
+	<url>https://github.com/DrZhivago1/The_Birds_and_the_Bees-CF_Patch</url>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
+	<packageId>drzhivago.thebirdsandthebeescfpatch</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Daniledman.CyberFauna</packageId>
+			<displayName>Cyber Fauna 1.1</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1548649032</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>fluffy.thebirdsandthebees</packageId>
+			<displayName>The Birds and the Bees</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/751049133</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Daniledman.CyberFauna</li>
+		<li>fluffy.thebirdsandthebees</li>
+	</loadAfter>
 	<description>Adds reproductive organs for "The Birds and the Bees" with prosthetics based on "Cyber Fauna".
 
 &lt;b&gt;Load after "Cyber Fauna" and "The Birds and the Bees"&lt;/b&gt;
