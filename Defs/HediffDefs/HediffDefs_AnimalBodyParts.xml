@@ -4,6 +4,7 @@
 		<defName>CFSimpleAniReproOrgHed</defName>
 		<label>prosthetic animal reproductive organ</label>
 		<labelNoun>a prosthetic animal reproductive organ</labelNoun>
+		<description>prosthetic animal reproductive organ</description>
 		<addedPartProps>
 			<solid>true</solid>
 			<betterThanNatural>false</betterThanNatural>
@@ -16,6 +17,7 @@
 		<defName>CFBionicAniReproOrgHed</defName>
 		<label>bionic animal reproductive organ</label>
 		<labelNoun>a bionic animal reproductive organ</labelNoun>
+		<description>a bionic animal reproductive organ</description>
 		<addedPartProps>
 			<solid>true</solid>
 			<betterThanNatural>false</betterThanNatural>
@@ -28,6 +30,7 @@
 		<defName>CFArchoAniReproOrgHed</defName>
 		<label>archotech animal reproductive organ</label>
 		<labelNoun>an archotech animal reproductive organ</labelNoun>
+		<description>an archotech animal reproductive organ</description>
 		<addedPartProps>
 			<solid>true</solid>
 			<betterThanNatural>false</betterThanNatural>
