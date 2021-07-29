@@ -1,7 +1,7 @@
 <Patch>
 
 	<Operation Class="PatchOperationAdd">
-		<xpath>Defs/ThingDef[@Name="AnimalThingBase"]/recipes</xpath>
+		<xpath>/Defs/ThingDef[@Name="AnimalThingBase"]/recipes</xpath>
 			<value>
 				<li>InstallCFSimpleAniReproOrgans</li>
 				<li>InstallCFBionicAniReproOrgans</li>
